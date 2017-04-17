@@ -1,0 +1,15 @@
+com\real\model\Authorization.class
+com\real\dao\ProductDAO.class
+com\real\dao\ProductDAOImp.class
+com\real\controller\UserController.class
+com\real\controller\Hllocont.class
+com\real\controller\AdminController.class
+com\real\dao\UserDAOImp.class
+com\real\model\Product.class
+com\real\service\UserService.class
+com\real\controller\ProductController.class
+com\real\service\UserServiceImp.class
+com\real\service\ProductService.class
+com\real\model\User.class
+com\real\dao\UserDAO.class
+com\real\service\ProductServiceImp.class
